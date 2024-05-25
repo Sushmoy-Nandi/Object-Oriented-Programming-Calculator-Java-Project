@@ -32,6 +32,38 @@ Project approach study is the natural way to present technology in an attractive
     - GridLayout for buttons.
     - BorderLayout for the overall layout.
 
+## Technical Implementation
+
+### Event Handling:
+    - ActionListeners for handling button clicks.
+### Class Structure:
+    - Calculator: Main GUI class.
+    - OperatorListener: Handles operator buttons.
+    - NumberListener: Handles number buttons.
+    - CalculatorOp: Performs arithmetic operations.
+
+## Code Walkthrough
+
+## Main Class:
+* SwingCalculator: Initializes the calculator.
+### Constructor:
+* Calculator: Sets up GUI components.
+### Action Listeners:
+* OperatorListener and NumberListener: Handle user interactions.
+### Operations Class:
+* CalculatorOp: Performs arithmetic calculations.
+### Content:
+* Main Class Code Snippet
+    - public class SwingCalculator { ... }
+* Constructor Code Snippet
+    - public Calculator() { ... }
+* Action Listener Code Snippets
+    - class OperatorListener implements ActionListener { ... }
+    - class NumberListener implements ActionListener { ... }
+* Operations Class Code Snippet
+    -public class CalculatorOp { ... }
+
+
 
 
 
