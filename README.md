@@ -63,6 +63,17 @@ Project approach study is the natural way to present technology in an attractive
 * Operations Class Code Snippet
     - public class CalculatorOp { ... }
 
+## Conclusion
+
+### vSummary of Achievements
+* Functional calculator with a user-friendly interface.
+### Key Learnings
+* Java Swing, event handling, GUI design.
+### Future Plans
+* Potential features include more advanced functions, history of calculations, better error handling.
+
+
+
 
 
 
