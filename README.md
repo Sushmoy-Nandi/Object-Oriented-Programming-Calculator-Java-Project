@@ -35,12 +35,12 @@ Project approach study is the natural way to present technology in an attractive
 ## Technical Implementation
 
 ### Event Handling:
-    - ActionListeners for handling button clicks.
+- ActionListeners for handling button clicks.
 ### Class Structure:
-    - Calculator: Main GUI class.
-    - OperatorListener: Handles operator buttons.
-    - NumberListener: Handles number buttons.
-    - CalculatorOp: Performs arithmetic operations.
+- Calculator: Main GUI class.
+- OperatorListener: Handles operator buttons.
+- NumberListener: Handles number buttons.
+- CalculatorOp: Performs arithmetic operations.
 
 ## Code Walkthrough
 
@@ -61,7 +61,7 @@ Project approach study is the natural way to present technology in an attractive
     - class OperatorListener implements ActionListener { ... }
     - class NumberListener implements ActionListener { ... }
 * Operations Class Code Snippet
-    -public class CalculatorOp { ... }
+    - public class CalculatorOp { ... }
 
 
 
