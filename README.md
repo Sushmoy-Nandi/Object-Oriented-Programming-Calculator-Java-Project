@@ -10,6 +10,32 @@ Project approach study is the natural way to present technology in an attractive
 * Simple yet practical application. 
 * Good for learning basic GUI and event handling.
 
+## Project Goals
+* Learn Java Swing. 
+* Implement basic arithmetic operations. 
+* Develop a clean and functional user interface.
+
+## User Interface Design
+* GUI Components:
+    - JTextField for displaying input and results.
+    - JButton for numerical and operation inputs.
+    - JPanel for organizing components.
+* Layout:
+    - GridLayout for buttons.
+    - BorderLayout for the main panel.
+### Content:
+* Components Used:
+    - JTextField
+    - JButton
+    - JPanel
+* Layout Design:
+    - GridLayout for buttons.
+    - BorderLayout for the overall layout.
+
+
+
+
+
 
 
 
