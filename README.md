@@ -65,7 +65,7 @@ Project approach study is the natural way to present technology in an attractive
 
 ## Conclusion
 
-### vSummary of Achievements
+### Summary of Achievements
 * Functional calculator with a user-friendly interface.
 ### Key Learnings
 * Java Swing, event handling, GUI design.
